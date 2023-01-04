@@ -17,8 +17,8 @@ To get a Git project into your build:
 ```
 #Step 2. Add the dependency
 
-	```gradle
+```gradle
     dependencies {
             implementation 'com.github.dheeraj-bhadoria:BlinkMyView-Kotlin-Library:Tag'
     }
-  ```
+```
